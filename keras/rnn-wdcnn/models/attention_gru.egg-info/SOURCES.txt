@@ -1,0 +1,8 @@
+setup.py
+attention_gru.egg-info/PKG-INFO
+attention_gru.egg-info/SOURCES.txt
+attention_gru.egg-info/dependency_links.txt
+attention_gru.egg-info/top_level.txt
+mylayers/__init__.py
+mylayers/attention_gru.py
+mylayers/attention_lstm.py
